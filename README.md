@@ -1,4 +1,4 @@
-# Assess-AI
+# TA-AI
 
 AI-powered assessment platform for teachers: upload assignment artifacts, extract structured academic content, auto-grade student submissions, and provide targeted remediation insights.
 
